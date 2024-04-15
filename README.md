@@ -1,3 +1,4 @@
+![giphy](https://github.com/Jagat9/jagat-s_portfolio/assets/47893550/e0201423-f7c9-414b-a746-abd3fca8839c)
 # [Project1: Car-selling-dashboard](https://public.tableau.com/app/profile/jagat.jeeban.basantia/viz/CarSellingproject/Dashboard1)
 - Data was taken from Kaggle
 - Developed a comprehensive car-selling data visualization using Tableau
